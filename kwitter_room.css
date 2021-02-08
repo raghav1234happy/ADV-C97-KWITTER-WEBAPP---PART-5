@@ -1,0 +1,21 @@
+html, body
+{
+  margin: 0;
+  background-color: #A9FFA1;  
+  font-family: 'Josefin Sans', sans-serif;
+}
+#logout{    
+    font-family: 'Josefin Sans', sans-serif;
+}
+sup{
+background-color: #1136ff;
+font-family: 'Racing Sans One', cursive;
+color: white;
+}
+h1{
+  font-family: 'Racing Sans One', cursive;   
+}
+#output{
+    background-color: #fefefe;
+    border-radius: 2%;
+}

@@ -1,0 +1,22 @@
+html, body
+{
+  margin: 0;
+  background-color: #A9FFA1;  
+    font-family: 'Josefin Sans', sans-serif;
+}
+#logout{    
+    font-family: 'Josefin Sans', sans-serif;
+}
+.like_btn{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #1136ff;
+    color:#fefefe;
+}
+sup{
+background-color: #1136ff;
+font-family: 'Racing Sans One', cursive;
+color: white;
+}
+h1{
+  font-family: 'Racing Sans One', cursive;   
+}

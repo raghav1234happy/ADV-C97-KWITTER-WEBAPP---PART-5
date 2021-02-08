@@ -1,0 +1,54 @@
+html, body
+{
+  margin: 0;
+  background-color: #A9FFA1;
+}
+.login_div{
+	top: 50%;
+	background: rgba(255,255,255,0.8);
+	float: none;
+	border-radius: 15px;
+}
+#logout{    
+    font-family: 'Josefin Sans', sans-serif;
+}
+sup{
+background-color: #1136ff;
+font-family: 'Racing Sans One', cursive;
+color: white;
+}
+h1{
+  font-family: 'Racing Sans One', cursive;   
+}
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+letter-spacing: -2px;
+}
+h4,label,button{
+    font-family: 'Josefin Sans', sans-serif;
+letter-spacing: -2px;
+}
+input{
+		font-family: 'Josefin Sans', sans-serif;
+		letter-spacing: 1px;
+		text-align: center;
+}
+
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+#output{
+    background-color: #fefefe;
+    border-radius: 2%;
+}
+.like_btn{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #1136ff;
+    color:#fefefe;
+}
